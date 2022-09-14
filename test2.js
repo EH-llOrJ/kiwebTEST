@@ -12,4 +12,4 @@ function isPrime(n) {
   console.log(arr);
 }
 
-isPrime(144);
+isPrime(14);
